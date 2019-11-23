@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Title 1",
+      "post": "Post 1",
+      "date": "22.11.2019"
+    },
+    {
+      "id": 2,
+      "title": "Title 2",
+      "post": "Post 2",
+      "date": "23.11.2019"
+    }
+  ]
+}
